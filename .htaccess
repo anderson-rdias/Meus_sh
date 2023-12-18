@@ -1,6 +1,8 @@
+#dineshs não podem conter versão de php setadas.
+
 ##### NAO REMOVER #####
-AddHandler php74-script .php
-suPHP_ConfigPath /home/$USER
+#AddHandler php74-script .php
+#suPHP_ConfigPath /home/$USER
 ##### NAO REMOVER #####
 
 # BEGIN WordPress
